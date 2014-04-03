@@ -1,0 +1,36 @@
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\ApplicationIcon.png
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Background.png
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Day9-CalendarAPI.dll
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Day9-CalendarAPI.pdb
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\AppManifest.xaml
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Day9_CalendarAPI.xap
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\App.g.i.cs
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\MainPage.g.i.cs
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\Day9-CalendarAPI.g.resources
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\Day9-CalendarAPI.dll
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\Day9-CalendarAPI.pdb
+C:\Users\jblankenburg\Dropbox\31 Days of Mango\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\XapCacheFile.xml
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\ApplicationIcon.png
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Background.png
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Day9-CalendarAPI.dll
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Day9-CalendarAPI.pdb
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\AppManifest.xaml
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Day9-CalendarAPI_Debug_AnyCPU.xap
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\Day9-CalendarAPI.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\App.g.cs
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\MainPage.g.cs
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\Day9-CalendarAPI.g.resources
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\Day9-CalendarAPI.dll
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\Day9-CalendarAPI.pdb
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\obj\Debug\XapCacheFile.xml
+C:\Users\daniel\Documents\Visual Studio 2013\Projects\Day9-CalendarAPI\Day9-CalendarAPI\Bin\Debug\Microsoft.Phone.Controls.xml
